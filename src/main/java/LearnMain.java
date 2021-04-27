@@ -32,7 +32,7 @@ public class LearnMain {
         System.out.println("x=" + x + ", y=" + y);
 
         System.out.println();
-        System.out.println();
+
         System.out.println();
         if (x < y)
         {

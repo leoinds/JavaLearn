@@ -42,6 +42,7 @@ public class LearnMain {
     else{
             System.out.println("x не меньше y");
             System.out.println("у не больше х");
+            System.out.println();
         }
     }
 }

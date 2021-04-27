@@ -33,6 +33,7 @@ public class LearnMain {
 
         System.out.println();
         System.out.println();
+        System.out.println();
         if (x < y)
         {
             System.out.println("x меньше y");

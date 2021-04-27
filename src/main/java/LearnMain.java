@@ -43,7 +43,7 @@ public class LearnMain {
             System.out.println("x не меньше y");
             System.out.println("у не больше х");
             System.out.println();
-            int leo=1256;
+            int leo=1256789;
         }
     }
 }
